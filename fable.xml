@@ -74,8 +74,8 @@
     <agent img="17.png" x="300" y="0" width="200" height="100"/>
     <agent img="idle3.png" x="20" y="80" width="100" height="100" />
     <agent img="barco.png" x="330" y="0" width="200" height="200" on-touch="_NEXT_PAGE"/> 
-    <agent img="lança.png" x="100" y="80" width="130" height="80" on-drop="morto" draggable="true">
-      <morto img="lança.png" x="100" y="-200" width="130" height="80"/>
+    <agent img="lanca2.png" x="100" y="80" width="130" height="80" on-drop="morto" draggable="true">
+      <morto img="lanca2.png" x="100" y="-200" width="130" height="80"/>
     </agent>  
     <agent img="Bush1.png" x="100" y="90" width="120" height="80" draggable="true"/>
     <agent img="idle4.png" x="210" y="90" width="180" height="120" drop-zone="morto">
