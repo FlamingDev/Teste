@@ -1,5 +1,5 @@
 <fable>
-	<page background="bg_neve.png" soundtrack="soundtrack1.wav">
+	<page background="bg_neve.png" soundtrack="soundtrack1.mp4">
     
     <agent text="O Jovem Cavaleiro" font-size="20" x="20" y="460" />
     <agent text="Hoje é um dia após nosso jovem cavaleiro completar 18 invernos..." x="20" y="430"/>
